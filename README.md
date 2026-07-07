@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/madeehasheikh?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="madeehasheikh313@gmail.com">
+  <a href="mailto:madeehasheikh313@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/madeehasheikh">
@@ -119,7 +119,7 @@ I am a highly driven, final-year Computer Science Engineering student focused on
 </details>
 
 <details>
-  <summary>📦 <b>Inventory Management & Procurement Analytics System</b></summary>
+  <summary>📦 <b>Smart Inventory & Procurement System</b></summary>
   <br />
 
   An analytical inventory management and procurement tracking database designed to optimize stock control and visualize supplier supply-chain efficiencies.
@@ -131,7 +131,7 @@ I am a highly driven, final-year Computer Science Engineering student focused on
   | **Performance** | Developed dynamic stock level indicators using aggregate MySQL views and subqueries |
   | **Security** | Implemented transaction-safe routines for stock adjustments and purchase order completions |
   | **Impact** | Automated low-stock trigger reports and mapped vendor delivery lead-time analysis |
-  | **Repository** | [GitHub Link](https://github.com/madeehasheikh/inventory-procurement-analytics) |
+  | **Repository** | [GitHub Link](https://github.com/madeehasheikh/smart-inventory-procurement-system) |
 
   #### Professional Project Summary
   This project manages enterprise inventory pipelines and tracks supply chain procurement processes. Built with a normalized database schema in MySQL, it integrates purchase tracking data via Excel and Power Query for deep cleaning and analytics. It features custom-designed Power BI reporting panels calculating stock-out probabilities, lead-time variance analysis, and key cost KPI calculations using DAX formulas.
