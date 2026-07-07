@@ -16,10 +16,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/madeehasheikh">
+  <a href="https://www.linkedin.com/in/madeehasheikh?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:madeeha.sheikh@example.com">
+  <a href="madeehasheikh313@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/madeehasheikh">
@@ -170,7 +170,7 @@ I am a highly driven, final-year Computer Science Engineering student focused on
     <tbody>
       <tr>
         <td style="text-align: center;"><b>Academic Excellence</b></td>
-        <td style="text-align: left;">Maintained strong academic performance in core DBMS, Algorithms, and System Design courses.</td>
+        <td style="text-align: left;">Maintained high academic standing in core DBMS, Algorithms, and System Design courses.</td>
       </tr>
       <tr>
         <td style="text-align: center;"><b>3rd Place in Technical Ideathon</b></td>
@@ -212,10 +212,10 @@ I am a highly driven, final-year Computer Science Engineering student focused on
 ## 🎯 Coding Profiles
 
 <p align="left">
-  <a href="https://leetcode.com/madeehasheikh">
+  <a href="https://leetcode.com/madeehasheikh" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://hackerank.com/madeehasheikh">
+  <a href="https://hackerank.com/madeehasheikh" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-Solve-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
 </p>
@@ -225,12 +225,18 @@ I am a highly driven, final-year Computer Science Engineering student focused on
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madeehasheikh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madeehasheikh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/madeehasheikh" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=madeehasheikh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/madeehasheikh" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=madeehasheikh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeehasheikh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/madeehasheikh" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeehasheikh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
 </p>
 
 ---
@@ -238,7 +244,9 @@ I am a highly driven, final-year Computer Science Engineering student focused on
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=madeehasheikh&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
+  <a href="https://github.com/madeehasheikh" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=madeehasheikh&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
+  </a>
 </p>
 
 ---
@@ -246,7 +254,9 @@ I am a highly driven, final-year Computer Science Engineering student focused on
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madeehasheikh&theme=tokyonight&bg_color=1a1b26&hide_border=true" alt="Activity Graph" />
+  <a href="https://github.com/madeehasheikh" target="_blank">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=madeehasheikh&theme=tokyonight&bg_color=1a1b26&hide_border=true" alt="Activity Graph" />
+  </a>
 </p>
 
 ---
@@ -254,7 +264,9 @@ I am a highly driven, final-year Computer Science Engineering student focused on
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/madeehasheikh/madeehasheikh/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <a href="https://github.com/madeehasheikh" target="_blank">
+    <img src="https://raw.githubusercontent.com/madeehasheikh/madeehasheikh/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  </a>
 </p>
 
 ---
