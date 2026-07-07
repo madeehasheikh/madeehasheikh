@@ -141,12 +141,19 @@ I am a highly driven, final-year Computer Science Engineering student focused on
 
 ## 💼 Experience
 
-### **Technical Project Lead**
-*College Capstone Projects | July 2025 - Present*
-- Managed system design and deployment architecture for campus analytic platforms.
-- Designed database schemas, optimized complex query joins, and implemented connection pools to support dashboard back-ends.
-- Managed version control pipelines using Git/GitHub, ensuring clean branches and code quality documentation.
-- **Skills:** `MySQL`, `Database Normalization`, `Python`, `Streamlit`, `Git`
+### **President**
+*Literary Club | September 2024 - Present*
+- Managed operations, communication strategies, and event timelines for the club.
+- Organized debates and creative writing competitions, managing logistics and candidate registries.
+- Strengthened organizational, public speaking, and team management skills under tight schedules.
+- **Skills:** `Public Speaking`, `Event Management`, `Leadership`, `Strategic Communications`
+
+### **Lead Coordinator**
+*Database Committee | August 2024 - Present*
+- Managed attendance logging databases and organized student record spreadsheets.
+- Coordinated database administration for inter-college technical hackathons, coding contests, and seminars.
+- Directed student volunteer committees during event execution, ensuring operational checkpoints were met.
+- **Skills:** `Data Organization`, `Microsoft Excel`, `Event Operations`, `Teamwork & Collaboration`
 
 ---
 
@@ -162,12 +169,16 @@ I am a highly driven, final-year Computer Science Engineering student focused on
     </thead>
     <tbody>
       <tr>
-        <td style="text-align: center;"><b>Hackathon Finalist</b></td>
-        <td style="text-align: left;">Recognized for building automated student database schemas under tight timelines.</td>
+        <td style="text-align: center;"><b>Academic Excellence</b></td>
+        <td style="text-align: left;">Maintained strong academic performance in core DBMS, Algorithms, and System Design courses.</td>
       </tr>
       <tr>
-        <td style="text-align: center;"><b>Academic Excellence</b></td>
-        <td style="text-align: left;">Maintained high academic standing in core DBMS, Algorithms, and System Design courses.</td>
+        <td style="text-align: center;"><b>3rd Place in Technical Ideathon</b></td>
+        <td style="text-align: left;">Designed an innovative database-driven prediction framework to improve healthcare supply metrics.</td>
+      </tr>
+      <tr>
+        <td style="text-align: center;"><b>1st Place in Technical Debate</b></td>
+        <td style="text-align: left;">Successfully formulated and presented structural arguments on scaling contemporary cloud technologies.</td>
       </tr>
     </tbody>
   </table>
@@ -177,13 +188,24 @@ I am a highly driven, final-year Computer Science Engineering student focused on
 
 ## 📜 Certifications
 
-### **Oracle & Databases**
-- **Oracle Certified Database Design & SQL** - Udemy / Academy
-- **SQL Bootcamp: Go From Zero to Hero** - Udemy
+### **Deloitte**
+- **Data Analyst Job Simulation Certificate** - Quantifying business indicators, formulating database questions, and designing visual reports.
+
+### **IBM**
+- **Getting Started with Artificial Intelligence Certificate** - Fundamentals of machine learning model paradigms and cognitive networks.
+
+### **J.P. Morgan**
+- **Quantitative Research Job Simulation Certificate** - Analytical data engineering modeling, math structures, and predictive evaluations.
+
+### **IIT Bombay (via Spoken Tutorial)**
+- **JavaScript Training Certificate** - Frontend scripting mechanics, variables, logic execution, and DOM manipulation algorithms.
 
 ### **NPTEL / Academic**
-- **Database Management Systems** - NPTEL (Elite Category)
-- **Data Science for Engineers** - NPTEL
+- **Machine Learning (NPTEL)** - Supervised/unsupervised estimator algorithms and feature space classification.
+- **Data Analyst / DBMS Courses (NPTEL)** - Query aggregation, schema indexing, normalizations, and corporate BI trends.
+
+### **GUVI**
+- **Generative AI Certificate** - Prompt engineering, transformer frameworks, and basic generative application interfaces.
 
 ---
 
