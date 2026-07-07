@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Software+Engineer;Data+Analyst;AI+%2F+ML+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=24&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Data+Analyst;AI+%2F+ML+Developer;Software+Engineer" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -37,15 +37,15 @@
 
 ## 💻 About Me
 
-I am a highly driven, final-year Computer Science Engineering student focused on building optimized database architectures, high-performance data pipelines, and analytical interfaces. With a strong foundation in software engineering principles, machine learning paradigms, and data visualization tools, I bridge the gap between back-end infrastructure and business intelligence.
+I am a highly driven, final-year Computer Science Engineering student focused on data analytics, business intelligence modeling, and machine learning pipelines. With a strong interest in extracting actionable insights from complex datasets, designing clean relational database schemas, and building user-friendly reporting systems, I am dedicated to driving data-informed business decisions.
 
-- **Systems & Databases:** Designing highly optimized, normalized schemas (3NF) and executing transactional logic.
-- **Analytics & BI:** Building dashboards to extract, transform, and load (ETL) corporate data.
-- **AI/ML Ideation:** Implementing predictive algorithms and model deployments.
-- **Product Mindset:** Engineering applications with an emphasis on low latency, transaction safety, and clean codebase scaling.
+- **Data Analytics & BI:** Building dashboards to extract, transform, and load (ETL) raw data and calculate business metrics.
+- **AI/ML Ideation:** Processing data features, training classification models, and evaluating metric results.
+- **Relational Databases:** Implementing normalized database systems (3NF), writing performance-focused queries, and managing transactions.
+- **Software Engineering:** Writing modular backend scripts and developing interfaces to display data analytics.
 
 > [!NOTE]  
-> **Open To:** Full-time opportunities in **Software Engineering (SDE)**, **Data Analytics**, and **AI/ML Engineering** roles at enterprise technology firms and product companies.
+> **Open To:** Full-time opportunities in **Data Analytics**, **AI/ML Engineering**, and **Software Engineering (SDE)** roles at enterprise technology firms and product companies.
 
 ---
 
@@ -55,13 +55,15 @@ I am a highly driven, final-year Computer Science Engineering student focused on
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
 ### 🗃️ Databases & Data Analysis
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel (Basic to Advanced)" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
@@ -70,7 +72,7 @@ I am a highly driven, final-year Computer Science Engineering student focused on
 ### 📊 Business Intelligence & ETL
 <p align="left">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="DAX" />
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="DAX (Data Analysis Expressions)" />
   <img src="https://img.shields.io/badge/Power_Query-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power Query Editor" />
 </p>
 
@@ -84,14 +86,14 @@ I am a highly driven, final-year Computer Science Engineering student focused on
 
 ---
 
-## 🤖 AI / ML Expertise
+## 🤖 AI / ML & Data Analytics Expertise
 
 | Domain | Proficiency | Details |
 | :--- | :---: | :--- |
 | **Supervised Learning** | Intermediate | Classification, regression, and ensemble models (Decision Trees, Random Forest). |
-| **Exploratory Data Analysis** | Advanced | Data cleaning, imputation, transformation, and feature engineering. |
-| **Model Evaluation** | Intermediate | Precision-Recall, ROC-AUC, F1-Score tuning, and validation frameworks. |
-| **Data Pipelines** | Advanced | Power Query ETL, SQL integration, and automated Python transformation scripts. |
+| **Data Transformation & ETL** | Advanced | Extracting, transforming, and loading data using Power Query, DAX, and Pandas. |
+| **Exploratory Data Analysis** | Advanced | Data cleaning, imputation, visualization, and feature engineering. |
+| **Data Visualization** | Advanced | Custom business report generation using Power BI dashboard reports and Matplotlib. |
 
 ---
 
@@ -239,11 +241,13 @@ I am a highly driven, final-year Computer Science Engineering student focused on
 
 ```yaml
 learning:
-  - Deep Learning Frameworks (PyTorch)
   - Advanced Query Tuning & Execution Plans
+  - Deep Learning Frameworks (PyTorch)
 building:
   - Scalable data visualization modules
 exploring:
   - Big Data querying pipelines (Apache Spark)
 open_to:
-  - SDE, Data Analyst, & AI/ML Associate Internships/Jobs
+  - Data Analyst
+  - AI/ML Associate
+  - Software Engineer (SDE)
