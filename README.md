@@ -119,22 +119,22 @@ I am a highly driven, final-year Computer Science Engineering student focused on
 </details>
 
 <details>
-  <summary>📈 <b>Academic Performance & Placement Predictive Modeling</b></summary>
+  <summary>📦 <b>Inventory Management & Procurement Analytics System</b></summary>
   <br />
 
-  A machine learning pipeline designed to clean, transform, and analyze academic history and predict placement outcomes.
+  An analytical inventory management and procurement tracking database designed to optimize stock control and visualize supplier supply-chain efficiencies.
 
   | Attribute | Specification |
   | :--- | :--- |
-  | **Stack** | Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn |
-  | **Scale** | 1,000+ synthetic student profile datasets with multi-dimensional academic criteria |
-  | **Performance** | Achieved 91.2% classification accuracy using optimized Random Forest estimators |
-  | **Security** | Data masking protocols implemented to protect student email and phone identification records |
-  | **Impact** | Identifies students at risk of non-placement early in the academic cycle |
-  | **Repository** | [GitHub Link](https://github.com/madeehasheikh/academic-placement-predictor) |
+  | **Stack** | MySQL, Python, Pandas, Microsoft Excel (Power Query, DAX), Power BI |
+  | **Scale** | Configured to track 5,000+ SKU inventory items, supplier logs, and procurement purchase orders |
+  | **Performance** | Developed dynamic stock level indicators using aggregate MySQL views and subqueries |
+  | **Security** | Implemented transaction-safe routines for stock adjustments and purchase order completions |
+  | **Impact** | Automated low-stock trigger reports and mapped vendor delivery lead-time analysis |
+  | **Repository** | [GitHub Link](https://github.com/madeehasheikh/inventory-procurement-analytics) |
 
   #### Professional Project Summary
-  Built an end-to-end predictive framework designed to assist educational counselors in identifying students requiring academic support. The system implements a pipeline using Pandas and NumPy for feature engineering (CGPA trend analysis, backlog ratios, and certifications count). It applies classification algorithms to predict placement probabilities and visualizes model feature importance using Seaborn.
+  This project manages enterprise inventory pipelines and tracks supply chain procurement processes. Built with a normalized database schema in MySQL, it integrates purchase tracking data via Excel and Power Query for deep cleaning and analytics. It features custom-designed Power BI reporting panels calculating stock-out probabilities, lead-time variance analysis, and key cost KPI calculations using DAX formulas.
 </details>
 
 ---
